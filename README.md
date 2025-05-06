@@ -5,6 +5,7 @@ The original template is from : [Cookiecutter Data Science](https://cookiecutter
 
 Each directory/file functions are describe as follow:
 
+```
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
@@ -42,3 +43,4 @@ Each directory/file functions are describe as follow:
     │   └── predict.py          <- Code to run model inference with trained models 
     │
     └── engine.py               <- The backbone of the ml pipeline
+```
