@@ -54,7 +54,8 @@ COLUMNS TYPES
 # data overview
 # df.head()
 # df.info()
-# df.describe() 
+# df.isna().sum()
+# df.describe(include = 'all') 
 
 # exploratory data analysis
 # data distribution
