@@ -28,28 +28,40 @@ import seaborn as sns
 # ----------------------------------------------
 """
 TABLE SUMMARY
-- Table Name: TO BE FILLED
-- Brief Description: TO BE FILLED
-- Sample Size: TO BE FILLED (add a note when the size changes)
-- Relationship w/ Other Tables: TO BE FILLED (current table id : other table matched id)
-- Missing Values Columns (type): counts
+1. Table Name: 
     - TO BE FILLED
-- Abnormal Values Columns (type): reason
+2. Brief Description: 
     - TO BE FILLED
-- Remove Unnecessary Columns: reason
+3. Sample Size: TO BE FILLED
+4. Relationship w/ Other Tables: 
+    - TO BE FILLED (current table id : other table matched id)
+5. Output Variable Column (type): 
+    - TO BE FILLED
+6. Missing Values Columns (type): counts
+    - TO BE FILLED
+7. Abnormal Values Columns (type): reason
+    - TO BE FILLED
+8. Unnecessary Columns: reason
     - TO BE FILLED
 
 COLUMNS TYPES
-1. Primary Key:
+1. Primary Key (pandas dtype):
     - TO BE FILLED
-2. Foreign Key:
+2. Foreign Key (pandas dtype):
     - TO BE FILLED
-3. Numeric:
+3. Datetime (pandas dtype):
     - TO BE FILLED
-4. Categorical:
+3. Numeric (pandas dtype):
     - TO BE FILLED
-5. Others:
+4. Categorical (pandas dtype):
     - TO BE FILLED
+5. Others (pandas dtype):
+    - TO BE FILLED
+
+POTENTIAL PREPROCESS STEPS
+- TO BE FILLED
+POTENTIAL FEATURE ENGINEERING
+- TO BE FILLED
 """
 # data overview
 # df.head()
